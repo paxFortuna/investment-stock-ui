@@ -3,7 +3,7 @@ import 'dart:ui';
 import 'package:fl_chart/fl_chart.dart';
 import 'package:flutter/material.dart';
 
-import 'dataset.dart';
+import '../data/dataset.dart';
 
 class Investment extends StatelessWidget {
   const Investment({Key? key}) : super(key: key);

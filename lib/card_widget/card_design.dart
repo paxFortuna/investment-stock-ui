@@ -1,7 +1,7 @@
 import 'package:blobs/blobs.dart';
 import 'package:flutter/material.dart';
 
-import 'dataset.dart';
+import '../data/dataset.dart';
 
 class CardDesign extends StatelessWidget {
   final CardData card;
